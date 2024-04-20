@@ -1,0 +1,15 @@
+{
+    "patient" : [{
+        "name" : "Gaurav Khirdikar",
+        "mailId" : "123@gmail.com",
+        "contactNo" :7218948599
+    }],
+    "doctor" : [{
+        "name" : "Abhimanyu Batule",
+        "mailId" : "123@gmail.com",
+        "contactNo" :7218948599
+    }],
+    "admin" : [{
+
+    }]
+}
